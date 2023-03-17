@@ -23,12 +23,16 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-
       },
       "package": "jadwalPesawat.apk"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "22a8107e-9502-4597-a0da-53b2e736bc38"
+      }
     }
   }
 }

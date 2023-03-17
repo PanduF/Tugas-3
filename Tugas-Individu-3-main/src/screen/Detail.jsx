@@ -43,7 +43,7 @@ const Detail = ({navigation, route}) => {
           </View>
         </View>
         <View style={styles.copyright1}>
-          <Text>Copyright Ayu Feblira Gersy - 119140102</Text>
+          <Text>Copyright Pandu Firmanto - 120140020</Text>
         </View>
       </SafeAreaView>
     )
@@ -62,7 +62,7 @@ const Detail = ({navigation, route}) => {
         renderItem={renderItem}
       />
       <View style={styles.copyright}>
-          <Text>Copyright Ayu Feblira Gersy - 119140102</Text>
+          <Text>Copyright Pandu Firmanto - 120140020</Text>
       </View>
     </SafeAreaView>
   );

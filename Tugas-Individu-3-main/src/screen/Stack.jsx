@@ -24,7 +24,7 @@ const ScreenStack = () => {
                 name="Home1"
                 component={Home}
                 options={{
-                    title: "Hiling.id",
+                    title: "Jalan Kuy.id",
                     headerLeft: () => <FontAwesome name="bars" size={24} color="white" />,
                     headerRight: () => <FontAwesome name="user-alt" size={24} color="white" />,
                 }}
@@ -33,7 +33,7 @@ const ScreenStack = () => {
                 name="Detail"
                 component={Detail}
                 options={{
-                    title: "Hiling.id",
+                    title: "Jalan Kuy.id",
                     headerRight: () => <FontAwesome name="user-alt" size={24} color="white" />,
                 }}
             />  

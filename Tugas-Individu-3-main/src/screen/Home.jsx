@@ -114,7 +114,7 @@ const Home = ({ navigation }) => {
           </View>
         </View>
         <View style={styles.copyright}>
-          <Text>Copyright Ayu Feblira Gersy - 119140102</Text>
+          <Text>Copyright Pandu Firmanto - 120140020</Text>
         </View>
       </KeyboardAvoidingView>
     </SafeAreaView>

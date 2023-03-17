@@ -133,7 +133,7 @@ export const JADWAL = [
     },
     {
         jadwal_id: "12",
-        bandara_kode_keberangkatan: "SKH",
+        bandara_kode_keberangkatan: "JND",
         bandara_kode_tujuan: "RDN",
         maskapai_id: "BTK"
     },
